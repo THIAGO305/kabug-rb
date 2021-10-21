@@ -8,6 +8,7 @@ pipeline{
         stage('Build'){
             steps{
                 echo 'Buildins or Resolver Dependencies teste'
+                sh 'bundle install'
             }
         }
     stage('Test'){
