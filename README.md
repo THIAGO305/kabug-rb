@@ -8,7 +8,7 @@ Reposotorio do projeto kabug com Cucumber, capybara e ruby
 ### Instalar o Bundler
 '
  gem install bundler
- '
+'
  
  ### Instalar as dependencias do roby (projeto)
  '
