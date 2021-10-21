@@ -3,7 +3,7 @@
 source "https://rubygems.org"
 
 gem "capybara"
-gem 'cucumber'
+gem 'cucumber', '~> 7.1'
 gem "rspec"
 gem "selenium-webdriver"
 gem "ffi"
