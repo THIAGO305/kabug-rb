@@ -11,15 +11,15 @@ Reposotorio do projeto kabug com Cucumber, capybara e ruby
 '
  
  ### Instalar as dependencias do roby (projeto)
- '
+'
  bundler install
- '
+'
  ### Executar localmente (minha maquina)
- '
+'
  bundler exec cucumber
- '
+'
  
  ### Executar no servidor de CI (gerando reports JSON)
- .
+'
  bundler exec cucumber -p ci
- .
+'
